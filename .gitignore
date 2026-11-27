@@ -1,0 +1,23 @@
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# SolidWorks 临时锁文件与备份
+~$*
+*.swp
+*.tmp
+*.bak
+*.SLDPRT~
+*.SLDASM~
+*.SLDDRW~
+*.sldprt~
+*.sldasm~
+*.slddrw~
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.code-workspace

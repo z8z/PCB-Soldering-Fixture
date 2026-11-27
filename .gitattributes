@@ -1,0 +1,13 @@
+# 二进制/CAD 文件：不做换行符转换，避免文件损坏
+*.SLDPRT  binary
+*.SLDASM  binary
+*.SLDDRW  binary
+*.STEP     -text
+*.step     -text
+*.STP      -text
+*.stp      -text
+*.zip      binary
+*.jpg      binary
+*.jpeg     binary
+*.png      binary
+*.pdf      binary
